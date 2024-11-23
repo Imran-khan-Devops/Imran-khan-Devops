@@ -1,6 +1,6 @@
 ## Hi there This is Shaik Imran 👋
 
-<!--
+
 **Imran-khan-Devops/Imran-khan-Devops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...You Can Reach me at imran44020@gmail.com or Whatsapp +91-9032844020
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...I'm a gym lover and enjoy staying active and fit.
--->
+
